@@ -1,6 +1,6 @@
 {
   "name": "fun-mock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fun-mock",
   "main": "src/index.js",
   "scripts": {
@@ -16,11 +16,17 @@
   },
   "keywords": [
     "mock",
-    "data",
-    "es6",
-    "module",
-    "import",
-    "export"
+    "mockdata",
+    "mockjs",
+    "mockjson",
+    "mockHMR",
+    "mockHot",
+    "mockfunction",
+    "mockesm",
+    "mockimport",
+    "mockexport",
+    "mockSimple",
+    "mockEasy"
   ],
   "author": "deepFish",
   "license": "ISC",
